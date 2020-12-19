@@ -1,0 +1,27 @@
+body{}
+
+#img{
+    margin-left: 500px;
+    height: 25%;
+    width: 25%;
+}
+.button{
+    margin-left: 490px;
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    font-family: Museo-Bd;
+    border-radius: 70px;
+    cursor: pointer;
+    border-color: black;
+}
+
+.button:hover{
+    background-color: orange;
+    color: black;
+}
+
+.music{
+    margin-left: 520px;
+    margin-top: 10px;
+    cursor: pointer;
+}
